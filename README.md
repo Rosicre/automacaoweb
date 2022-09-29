@@ -1,2 +1,2 @@
-# automacaoweb
- Busca Automática por Preços na Internet
+# Busca Automática por Preços na Internet usando Selenium, imagina que você trabalha na área de Compras de uma Empresa e precisa fazer uma comparação de fornecedores para os seus insumos/produtos. Nessa hora você constantimente buscar nos sites desses fornecedores os produtos disponíveis e o preço, afinal cada um deles pode fazer promoções em momentos diferentes e com valores diferentes. Nosso objetivo aqui é: se o valor dos produtos for abaixo de um preço limite definido por você, você vai descobrir os produtos mais baratos e atualizar isso em uma planilha.
+# Em seguida, vai enviar um e-mail com a lista dos produtos abaixo do seu preço máximo de compra. Vamos usar o Google Shopping e Buscapé, mas a idéia é a mesma para todos os sites
